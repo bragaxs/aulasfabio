@@ -1,3 +1,5 @@
 erros: pagina html
 
 erro: css, alterações n funcionando
+
+erro corrigido: 
