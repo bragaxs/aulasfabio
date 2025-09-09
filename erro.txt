@@ -1,1 +1,1 @@
-manioulação de erros
+erros: pagina html
