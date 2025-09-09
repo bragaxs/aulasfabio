@@ -1,3 +1,3 @@
 # aulasfabio
 
-erro ficticio 
+erro 
